@@ -1,0 +1,12 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	padding: 0;
+	margin:0;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:white;
+	background-color: green;
+}
